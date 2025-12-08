@@ -14,3 +14,4 @@ class HolaMundo {
         console.log(`La suma de ${a} + ${b} es: ${resultado}`);
     }
 }
+
